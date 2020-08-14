@@ -4,7 +4,7 @@
 
 # 实现
 
-### 通过对 codemirror 封装的 vue 组件引入 codemirror 获取其在线编辑的代码 进行分割匹配分别处理 html css script （vue loader 是分别匹配完就直接扔给相应的 loader 与此不同）
+### 通过对 codemirror 封装的 vue-codemirror 引入 codemirror 获取其在线编辑的代码 进行分割匹配分别处理 html css script （vue loader 是分别匹配完就直接扔给相应的 loader 与此不同）
 
 ### 获取代码后通过内联样式将 css 插入页面中的 header 通过将 js 部分处理成 vue.extend(options)中的 option 让 vue 中的构造函数继承页面编辑中的编辑
 
