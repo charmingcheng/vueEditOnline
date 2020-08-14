@@ -1,6 +1,6 @@
 # 介绍
 
-### 改项目是基于 vue-codemirror vue-design(原 iview)简答搭建的代码可视化编辑
+### 基于 vue-codemirror vue-design(原 iview)简答搭建的代码可视化编辑
 
 # 实现
 
