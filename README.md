@@ -40,6 +40,6 @@ npm run build
 npm run lint
 ```
 # 效果
-![Image text](https://raw.githubusercontent.com/wangxue2016/imgFloder/master/codeMirror.PNG)
+![Image text](https://github.com/wangxue2016/imgFloder/blob/master/codeMirror.PNG)
 
 
